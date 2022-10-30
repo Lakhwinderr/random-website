@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+.videos{
+    display: flex;
+    justify-content: center;
+}
+
+video{
+    margin: auto;
+}
